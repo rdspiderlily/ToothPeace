@@ -226,4 +226,5 @@ button.ghost {
 footer p{
     color: #004aad;
     font: bold .8rem 'Montserrat', sans-serif;
+    margin-top: 10px;
 }
